@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm nikunj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nikunj</h1>
+<h3 align="center">
+B.Tech IT Student from India
+</h3>
 
-- 🔭 I’m currently working on **lms**
+- 💻 Current skills: **C, Python, C++ (Basic)**
+- 📘 Basic knowledge: **Data Science fundamentals**
+- 🎯 Aim: **Build strong skills in Data Science & AI through practical projects**
+- 🤝 Open to collaborating on **simple management systems & learning-based projects**
 
-- 👯 I’m looking to collaborate on **management system**
+<h3 align="left">Languages & Tools (Current):</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+</p>
